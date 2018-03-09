@@ -8,14 +8,13 @@ Our experimental results show that XBLESS achieves a speedup of 2.8, 5.2 and 9.3
 The techniques presented in XBLESS can also be adapted to map similar applications exhibiting the massively probing of look-up data structures, such as searching of large-scale transcriptomic sequencing databases using sequence Bloom tress or de novo genome assembly onto heterogeneous many-core cluster architectures.
 
 
-#Getting start
+# Getting start
+
 To build XBLESS, after you choose one in three implementation, based on your hardware platform, then simply
 
 do: make
 
-#Running a test 
-
-
+# Running a test 
 
 To run a test using XBLESS, simply do:
 
